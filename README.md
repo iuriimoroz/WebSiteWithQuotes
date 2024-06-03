@@ -25,7 +25,7 @@ A simple website that displays a "Quote of the Day" fetched from the Quotable AP
 3. **Open the index.html file in your preferred web browser.**
 
 
-##How It Works
+## How It Works
 
 **index.html**: Basic structure of the website.
 **styles.css**: CSS for styling the website.
